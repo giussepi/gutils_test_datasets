@@ -1,5 +1,5 @@
 # gutils_test_datasets
-Test datasets for [gutils](https://github.com/giussepi/gutils) tests
+Test datasets for [gutils](https://github.com/giussepi/gutils) and [gtorch_utils](https://github.com/giussepi/gtorch_utils) tests
 
 We employ two cases from the  **NIH-TCIA CT Pancreas benchmark (CT-82)**  [^1] [^2] [^3]
 
